@@ -39,5 +39,5 @@ print (gcf) # prints 8
 
 # Approximate
 approx = Fraction(1, 3).approx()
-print (approx)
+print (approx) # prints 0.3333333333333333
 ```
